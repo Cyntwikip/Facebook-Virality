@@ -1,5 +1,10 @@
 # Facebook-Virality
-DOST AI Summer School 2017 Mini Project
+DOST-PCIEERD AI Summer School 2017 Mini Project
+
+Members: 
+Jude Michael Teves
+Keno Villavicencio
+Sashmir Yap
 
 The dataset used in this project was retrieved from this link: https://archive.ics.uci.edu/ml/datasets/Facebook+Comment+Volume+Dataset
 
